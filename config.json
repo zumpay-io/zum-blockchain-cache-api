@@ -1,0 +1,10 @@
+{
+  "bindIp": "0.0.0.0",
+  "httpPort": 80,
+  "corsHeader": "*",
+  "coinDecimals": 8,
+  "defaultMixins": 0,
+  "queues": {
+    "relayAgent": "request.network"
+  }
+}
