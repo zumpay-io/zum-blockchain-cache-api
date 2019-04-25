@@ -69,4 +69,5 @@ pm2 save
 
 See https://docs.zumpay.io/blockapi/ for the full REST API provided by this package.
 
+###### (c) 2018 TurtlePay™ Development Team
 ###### (c) 2019 ZumPay™ Development Team
